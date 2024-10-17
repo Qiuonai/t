@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio-Tech Research Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .main {
+            padding: 2rem;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        .footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to Bio-Tech Research Organization</h1>
+        <p>Pioneering the future of biotechnology</p>
+    </div>
+    <div class="main">
+        <div class="section">
+            <h2>About Us</h2>
+            <p>We are dedicated to advancing the frontiers of biotechnology through innovative research and development. Our mission is to improve lives through scientific discovery and application.</p>
+        </div>
+        <div class="section">
+            <h2>Our Research</h2>
+            <p>Our research spans various fields including genetic engineering, biomaterials, and medical biotechnology. We strive to create sustainable solutions for the global community.</p>
+        </div>
+        <div class="section">
+            <h2>Contact Us</h2>
+            <p>Email: info@biotech.org</p>
+            <p>Phone: +123 456 7890</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Bio-Tech Research Organization. All rights reserved.</p>
+    </div>
+</body>
+</html>
